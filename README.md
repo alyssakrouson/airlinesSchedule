@@ -1,1 +1,7 @@
-# airlinesSchedule
+# Airlines Schedule
+1. Download .py file and .csv files to desired location
+2. Run .py file on desired software and run the file
+3. Answer prompts as followed
+4. Type in name of .csv file
+5. Choose flight number
+6. Flight information is returned
